@@ -1,1 +1,1 @@
-# .elixir_lua_template
+# LUA Template
