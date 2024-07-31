@@ -2,9 +2,6 @@ Config = {}
 
 Config.Debug = true
 
-Config.Notification = 'ox'
-Config.Progress = 'ox'
-
 
 -- Inventory
 AddEventHandler("onResourceStart", function()
